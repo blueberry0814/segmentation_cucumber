@@ -7,7 +7,7 @@
 2. requirements.txt 를 참고해 환경 세팅
 3. final.py 실행
 
-- train 폴더에서 detection 훈련 모델을 직접 설계할 수 있음. (지금 성능 별로 안좋음)
+- train 폴더에서 detection 훈련 모델을 직접 설계할 수 있음. (데이터셋 이슈로 지금 성능 별로 안좋음;)
 
 
 ![10_20210108_1989850_segmented](https://github.com/user-attachments/assets/37cae839-3842-4dfe-99ea-a769b653255c)
