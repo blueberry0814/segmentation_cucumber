@@ -1,10 +1,13 @@
 오이만 segmentation 
 
-아래 링크로 segmentation 모델을 final.py 와 동일한 경로에 다운받아주세요!
+1. 아래 링크로 segmentation 모델을 final.py 와 동일한 경로에 다운받아주세요!
 
 - **`default` or `vit_h`: [ViT-H SAM model.](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)**
 
+2. requirements.txt 를 참고해 환경 세팅
+3. final.py 실행
 
+- train 폴더에서 detection 훈련 모델을 직접 만들 수 있음. 
 
 
 ![10_20210108_1989850_segmented](https://github.com/user-attachments/assets/37cae839-3842-4dfe-99ea-a769b653255c)
