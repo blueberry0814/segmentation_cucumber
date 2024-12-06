@@ -1,12 +1,8 @@
 오이만 segmentation 
 
+아래 링크로 segmentation 모델을 final.py 와 동일한 경로에 다운받아주세요!
+
 - **`default` or `vit_h`: [ViT-H SAM model.](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)**
-
-
-
-
-
-
 
 
 
