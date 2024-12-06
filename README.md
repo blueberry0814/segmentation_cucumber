@@ -11,4 +11,4 @@
 
 
 ![10_20210108_1989850_segmented](https://github.com/user-attachments/assets/37cae839-3842-4dfe-99ea-a769b653255c)
-![10_20210108_1989850_segmented](https://github.com/user-attachments/assets/ce1905e2-0649-47f2-bfde-90a714cfc57e)
+![10_20210108_1989882_segmented](https://github.com/user-attachments/assets/8cbea196-8f2b-4eda-9c91-885133652ab9)
