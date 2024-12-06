@@ -1,4 +1,4 @@
-오이만 segmentation 
+오이만 segmentation 하기 ! 
 
 1. 아래 링크로 segmentation 모델을 final.py 와 동일한 경로에 다운받아주세요!
 
